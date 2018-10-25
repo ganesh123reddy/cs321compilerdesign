@@ -1,5 +1,7 @@
 import boto3
 import pprint
+import pandas
+
 # Credentials & Region
 access_key = "AKIAI7S5MBOE7ZMXJNCA"
 secret_key = "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"
